@@ -1,0 +1,100 @@
+{
+  "Machine Learning": {
+    "description": "Machine learning is a subset of artificial intelligence focused on building systems that learn from data, identify patterns, and make decisions with minimal human intervention. It involves training algorithms using datasets so that they can generalize to new, unseen data, typically categorized into supervised learning, unsupervised learning, and reinforcement learning.",
+    "key_points": [
+      "Subfield of artificial intelligence (AI)",
+      "Learning from data / identifying patterns to make decisions",
+      "Training algorithms using datasets to generalize to unseen data",
+      "Types: supervised learning, unsupervised learning, and reinforcement learning"
+    ],
+    "keywords": [
+      "data",
+      "algorithms",
+      "training",
+      "supervised",
+      "unsupervised",
+      "reinforcement",
+      "patterns",
+      "prediction",
+      "models"
+    ]
+  },
+  "Cloud Computing": {
+    "description": "Cloud computing is the on-demand delivery of IT resources over the Internet, with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, users access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like AWS, Microsoft Azure, or Google Cloud.",
+    "key_points": [
+      "On-demand delivery of computing services over the internet",
+      "Pay-as-you-go pricing model",
+      "Eliminates the need for physical data centers and hardware",
+      "Provides compute power, storage, and databases",
+      "Major providers include AWS, Azure, and Google Cloud"
+    ],
+    "keywords": [
+      "servers",
+      "storage",
+      "databases",
+      "internet",
+      "on-demand",
+      "pay-as-you-go",
+      "aws",
+      "azure",
+      "cloud",
+      "hosting"
+    ]
+  },
+  "Database Indexing": {
+    "description": "Database indexing is a data structure technique used to quickly locate and access the data in a database table without having to search every row. It works like an index in a book, mapping specific search keys to their physical disk locations using structures like B-Trees or Hash tables, which significantly speeds up data retrieval at the cost of additional storage space and slower writes.",
+    "key_points": [
+      "Data structure technique to quickly locate and access table data",
+      "Avoids scanning every row (full table scan)",
+      "Maps search keys to physical storage locations",
+      "Uses data structures like B-Trees or Hash Indexes",
+      "Speeds up read operations but adds write overhead and storage costs"
+    ],
+    "keywords": [
+      "index",
+      "b-tree",
+      "hash",
+      "search",
+      "table",
+      "retrieval",
+      "query",
+      "overhead",
+      "writes",
+      "reads"
+    ]
+  },
+  "REST API": {
+    "description": "A REST API is an application programming interface that conforms to the architectural constraints of Representational State Transfer. It is stateless, client-server based, and uses standard HTTP protocols and methods (GET, POST, PUT, DELETE) to manage resources, typically transferring data formatted as JSON or XML.",
+    "key_points": [
+      "Representational State Transfer (REST) architectural style",
+      "Uses standard HTTP methods like GET, POST, PUT, and DELETE",
+      "Stateless communication between client and server",
+      "Accesses and manipulates resources using URIs",
+      "Formats payload data typically in JSON or XML"
+    ],
+    "keywords": [
+      "http",
+      "get",
+      "post",
+      "put",
+      "delete",
+      "stateless",
+      "resources",
+      "json",
+      "xml",
+      "api",
+      "client",
+      "server"
+    ]
+  },
+  "machine learning": {
+    "description": "machine learning is the process of training a model to perform specific tasks",
+    "key_points": [
+      "machine learning refers to process of making a model learn on data"
+    ],
+    "keywords": [
+      "machine",
+      "data"
+    ]
+  }
+}
